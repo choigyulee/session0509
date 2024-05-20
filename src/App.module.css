@@ -1,0 +1,36 @@
+*{
+  font-family: 'Noto Sans Korean';
+  text-align: center;
+  align-items: center;
+}
+
+/* App.js */
+
+.title {
+  padding: 3rem;
+  font-size: 30px;
+}
+
+/* State.js */
+
+.inputTaste {
+  padding: 50px;
+  line-height: 2rem;
+}
+
+.tasteList{
+  padding: 30px;
+  line-height: 3rem;
+}
+
+.taste {
+  font-family: 'Noto Sans Korean';
+  font-size: 25px;
+  list-style: none;
+}
+
+/* Effect.js */
+
+.selfCheerUp {
+  padding: 100px;
+}
